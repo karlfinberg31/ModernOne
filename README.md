@@ -4,6 +4,8 @@
 
 Discover high-performance, reliable VPS hosting solutions with ModernOne VPS. Ideal for businesses and individuals seeking robust service at competitive prices. Our servers are located in the AIMS Data Center in Kuala Lumpur, ensuring top-tier performance and connectivity.
 
+![image](https://github.com/karlfinberg31/ModernOne/assets/167734682/c090ea49-7130-4cf8-8ac8-e8a6ce9b5a98)
+
 ## ModernOne VPS Official Website Address
 
 [https://www.nocser.net/](https://www.nocser.net/clients/aff.php?aff=188).
